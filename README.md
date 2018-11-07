@@ -1,8 +1,8 @@
 #README
-BY: Simon Lay                        
-			------------------------------
-				-- Mazer v2 --
-			------------------------------
+BY: Simon Lay           
+
+-- Mazer v2 --
+
 To compile the program simply
 type in: make
 In the src directory and that should give you the compiled executable.
